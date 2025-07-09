@@ -1,0 +1,10 @@
+[
+{"type":"Feature","lon":116.38777063899056,"lat":39.90657286061571,"geometry":{"type":"Point","coordinates":[116.38777063899056,39.90657286061571]},"city":"Beijing"},
+{"type":"Feature","lon":113.29918417206437,"lat":40.09098684715934,"geometry":{"type":"Point","coordinates":[113.29918417206437,40.09098684715934]},"city":"Datong"},
+{"type":"Feature","lon":120.58329687536127,"lat":31.299812563416182,"geometry":{"type":"Point","coordinates":[120.58329687536127,31.299812563416182]},"city":"Suzhou"},
+{"type":"Feature","lon":121.46973268450733,"lat":31.225087947722756,"geometry":{"type":"Point","coordinates":[121.46973268450733,31.225087947722756]},"city":"Shanghai"},
+{"type":"Feature","lon":113.27124226384001,"lat":23.118738886135006,"geometry":{"type":"Point","coordinates":[113.27124226384001,23.118738886135006]},"city":"Guangzhou"},
+{"type":"Feature","lon":91.1207236051684,"lat":29.654491645644413,"geometry":{"type":"Point","coordinates":[91.1207236051684,29.654491645644413]},"city":"Lhasa"},
+{"type":"Feature","lon":88.88689499884572,"lat":29.25538339690536,"geometry":{"type":"Point","coordinates":[88.88689499884572,29.25538339690536]},"city":"Shigatse"},
+{"type":"Feature","lon":116.62686645239808,"lat":40.311496448837346,"geometry":{"type":"Point","coordinates":[116.62686645239808,40.311496448837346]},"city":"Mutianyu"}
+]

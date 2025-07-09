@@ -1,0 +1,130 @@
+day,city,expense,price,payment_source,category
+12-May,Pequim,Didi pro templo do céu (tava fechado),38.42,Carol,Transporte
+12-May,Pequim,Didi pro shopping das Pérolas (Hungqiao Market),13.3,Carol,Transporte
+12-May,Pequim,Colar e brincos Carol + brinco presente da Lara,170.0,Carol,Compras/Presentes
+12-May,Pequim,Didi pra Qianmen,14.8,Carol,Transporte
+12-May,Pequim,Almoço Qianmen,64.0,Carol,Alimentação
+12-May,Pequim,Sorvete de amendoim,9.9,Carol,Alimentação
+12-May,Pequim,Metrô,6.0,Carol,Transporte
+12-May,Pequim,Mountain Coffee,25.0,Carol,Alimentação
+12-May,Pequim,3 Baralhos,90.0,Carol,Compras/Presentes
+12-May,Pequim,Didi pra casa,45.0,Carol,Transporte
+12-May,Pequim,Didi pro restaurante de dumpling fritos,49.93,Carol,Transporte
+13-May,Pequim,Didi pro Templo do Céu,45.0,Carol,Transporte
+13-May,Pequim,Ingresso Templo do Céu,34.0,Carol,Ingressos
+13-May,Pequim,Icetea de limão,8.0,Carol,Alimentação
+13-May,Pequim,Bolsa e marcador de página,78.0,Carol,Compras/Presentes
+13-May,Pequim,Metrô,10.0,Carol,Transporte
+13-May,Pequim,Didi pra Beijingbei,53.73,Carol,Transporte
+13-May,Datong,Didi pro Hotel Weidu em Datong,18.2,Carol,Transporte
+13-May,Datong,Dois cafés da manhã do hotel,116.0,Diva,Alimentação
+13-May,Datong,Didi pro restaurante Zini 369,7.3,Diva,Transporte
+13-May,Datong,Jantar Zini 369,66.0,Diva,Alimentação
+13-May,Datong,Suco de maçã,7.0,Carol,Alimentação
+13-May,Datong,Didi pro hotel,7.5,Diva,Transporte
+14-May,Datong,Entrada Hanging Temple,115.0,Diva,Ingressos
+14-May,Datong,Ônibus Hanging Temple,40.0,Diva,Transporte
+14-May,Datong,Café KFC,20.0,Carol,Alimentação
+14-May,Datong,Comprinhas souvenirs Hanging Temple,97.0,Diva,Compras/Presentes
+14-May,Datong,Almoço Yunjinhui,232.0,Diva,Alimentação
+14-May,Datong,Sinos de souvenir,40.0,Diva,Compras/Presentes
+14-May,Datong,Cadernos Datong,75.0,Diva,Compras/Presentes
+14-May,Datong,Lencinhos,5.4,Diva,Compras/Presentes
+15-May,Datong,Ônibus Yungang Grottoes,30.0,Diva,Transporte
+15-May,Datong,Comprinhas souvenir,87.0,Diva,Compras/Presentes
+15-May,Datong,Sucos,30.0,Diva,Alimentação
+15-May,Datong,Táxi pra estação,19.8,Diva,Transporte
+15-May,Pequim,Metrô pra casa,10.0,Diva,Transporte
+16-May,Pequim,Águas,8.0,Carol,Alimentação
+16-May,Pequim,Almoço,115.0,Diva,Alimentação
+16-May,Pequim,Táxi Summer Palace,54.5,Diva,Transporte
+16-May,Pequim,Entrada Summer Palace,60.0,Diva,Ingressos
+16-May,Pequim,Audioguia Summer Palace,40.0,Diva,Ingressos
+16-May,Pequim,Água saborizada Summer Palace,8.0,Diva,Alimentação
+16-May,Pequim,Bolachas de amêndoa,25.0,Diva,Alimentação
+16-May,Pequim,Metrô para o Migas,10.0,Diva,Transporte
+16-May,Pequim,Jantar no Migas (espanhol),645.0,Diva,Alimentação
+17-May,Pequim,Didi pra estação Beijingnan,47.0,Diva,Transporte
+17-May,Pequim,Wrap de frango,39.0,Diva,Alimentação
+17-May,Pequim,Café de balde,44.0,Diva,Alimentação
+17-May,Pequim,Frutinhas,17.9,Carol,Alimentação
+17-May,Pequim,Metrô,10.0,Diva,Transporte
+17-May,Pequim,Balde de frango,20.98,Diva,Alimentação
+17-May,Pequim,Metrô,,Diva,Transporte
+17-May,Pequim,Leques,20.0,Diva,Compras/Presentes
+17-May,Pequim,Prendedor de cabelo,20.0,Diva,Compras/Presentes
+17-May,Pequim,Jantar,303.0,Tica,Alimentação
+18-May,Suzhou,Metro,4.0,Diva,Transporte
+18-May,Suzhou,Entrada Jardim do Administrador Humilde,200.0,Carol,Ingressos
+18-May,Suzhou,Cartão-postal,10.0,Carol,Compras/Presentes
+18-May,Suzhou,Café espresso + leite,20.0,Diva,Alimentação
+18-May,Xangai,Passagem avião Xangai-Pequim,1460.0,Tica,Transporte
+18-May,Xangai,Táxi pro hotel,27.0,Diva,Transporte
+18-May,Xangai,Jantar,99.0,Diva,Alimentação
+19-May,Xangai,Café da manhã do hotel,76.0,Diva,Alimentação
+19-May,Xangai,Didi pro barco,14.5,Diva,Transporte
+19-May,Xangai,Barco,4.0,Cada uma,Transporte
+19-May,Xangai,Didi pro museu,14.5,Diva,Transporte
+19-May,Xangai,MAP Museum of Art of Pudong,180.0,Diva,Ingressos
+19-May,Xangai,Alguma coisa de 2 yuan,2.0,Diva,Compras/Presentes
+19-May,Xangai,Comprinhas museu Pudong,18.0,Diva,Compras/Presentes
+19-May,Xangai,"Almoço Starbucks, wrap de frango e frutas",57.0,Diva,Alimentação
+19-May,Xangai,Coquinha,6.0,Diva,Alimentação
+19-May,Xangai,Ingresso torre Pérola Oriental,256.0,Diva,Ingressos
+19-May,Xangai,Comprinhas na torre,83.0,Carol,Compras/Presentes
+19-May,Xangai,Comprinhas na torre,66.0,Diva,Compras/Presentes
+19-May,Xangai,Uniqlo haul,1162.0,Paula,Compras/Presentes
+19-May,Xangai,Didi pro The Captain,39.0,Diva,Transporte
+19-May,Xangai,Jantar 2 no espetinho,112.0,Diva,Alimentação
+19-May,Xangai,Lenços no mercadinho ao lado do hotel,11.8,Carol,Compras/Presentes
+20-May,Xangai,Café da manhã do hotel,76.0,Diva,Alimentação
+20-May,Xangai,Didi pro Yuyuan,18.0,Diva,Transporte
+20-May,Xangai,Comprinhas,120.0,Diva,Compras/Presentes
+20-May,Xangai,Ingresso Yuyuan,60.0,Diva,Ingressos
+20-May,Xangai,Guarda-chuva + água,44.4,Diva,Compras/Presentes
+20-May,Xangai,Miniso meia e fone,44.9,Carol,Compras/Presentes
+20-May,Xangai,Chocolates e carrinho Inácio,128.0,Diva,Compras/Presentes
+20-May,Xangai,Almoço dumplings,32.0,Diva,Alimentação
+20-May,Xangai,Metrô,6.0,Diva,Transporte
+20-May,Xangai,Sorvete de casquinha,42.0,Diva,Alimentação
+20-May,Xangai,Metrô aeroporto,8.0,Cada uma,Transporte
+20-May,Xangai,Jantar Carol,26.0,Carol,Alimentação
+20-May,Pequim,Didi pra casa,77.88,Diva,Transporte
+21-May,Pequim,Didi na ida,187.27,Diva,Transporte
+21-May,Pequim,Ingressos parque + shuttle + bondinho,400.0,Paula,Ingressos
+21-May,Pequim,Chapéu,40.0,Carol,Compras/Presentes
+21-May,Pequim,Almoço Saigon Baimen,108.0,Diva,Alimentação
+21-May,Pequim,Didi na volta,204.2,Diva,Transporte
+22-May,Pequim,Didi para Tiannanmen,,Diva,Transporte
+22-May,Pequim,Almoço no museu,,Diva,Alimentação
+22-May,Pequim,Comprinhas museu,,Diva,Compras/Presentes
+22-May,Pequim,Volta de metrô,8.0,Cada uma,Transporte
+23-May,Pequim,Metrô pra Cidade Proibida,9.0,Carol,Transporte
+23-May,Pequim,Entrada Cidade Proibida,60.0,Diva,Ingressos
+24-May,Lhasa,Didi pro aeroporto,,Carol,Transporte
+24-May,Lhasa,Almoço hot pot surpresa,438.0,Tica,Alimentação
+24-May,Lhasa,Show Princesa Wejcheng,840.0,Tica,Ingressos
+24-May,Lhasa,Comidas,30.0,Carol/Renata,Alimentação
+25-May,Lhasa,Proteção (Jokar Temple),50.0,Renata,Compras/Presentes
+25-May,Lhasa,Porta-incenso e ímã,76.0,Diva,Compras/Presentes
+25-May,Lhasa,Bolsas,120.0,Tica,Compras/Presentes
+26-May,Lhasa,Comprinhas mirante,150.0,Diva,Compras/Presentes
+27-May,Shigatse,Gorjeta Samsara e Kunga,100.0,Carol,Compras/Presentes
+27-May,Shigatse,Jantar,,Carol,Alimentação
+28-May,Shigatse,Chapéu,35.0,Carol,Compras/Presentes
+28-May,Shigatse,Copinhos,50.0,Carol,Compras/Presentes
+28-May,Shigatse,Comprinhas no Old Market,125.0,Carol,Compras/Presentes
+28-May,Shigatse,Almoço,45.0,Carol,Alimentação
+28-May,Shigatse,Gorjeta Lhakdon,30.0,Carol,Compras/Presentes
+28-May,Shigatse,Água e cerveja,13.0,Carol,Alimentação
+28-May,Shigatse,Comprinhas,50.0,Carol,Compras/Presentes
+28-May,Shigatse,Jantar Pizza Hut,57.0,Diva,Alimentação
+28-May,Shigatse,Suco,12.0,Carol,Alimentação
+29-May,Lhasa,Didi para Norbulingka,15.0,Diva,Transporte
+29-May,Lhasa,Entrada Norbulingka,120.0,Diva,Ingressos
+29-May,Lhasa,Compras Norbulingka,308.0,Diva,Compras/Presentes
+29-May,Lhasa,Didi para Bokar,,Diva,Transporte
+29-May,Lhasa,Almoço,33.0,Diva,Alimentação
+29-May,Lhasa,Compras Bokar Supermarket,105.0,Carol,Compras/Presentes
+29-May,Lhasa,Massagem no aeroporto,30.0,Diva,Compras/Presentes
+29-May,Pequim,Taxi do aeroporto,102.0,Paula,Transporte

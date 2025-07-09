@@ -1,0 +1,658 @@
+<!-- The originial version of this template was made by Johnathan Soma, then customized by Aaron Reiss -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>A trip to China (from your pocket's point of view)</title>
+    <link rel="icon" href="img/logo.webp">
+
+
+    <style>
+
+      html, body {
+      background-color: #4d0000; /* Dark red background */
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      min-height: 100vh; /* Ensures full page coverage */
+      }
+
+      .content{
+        background-color:#4d0000;
+        max-width: 100%;
+        position: center;
+        /*border-radius: 8px;*/
+        font-family: "Petrona", "Times New Roman", Times, serif;
+        color: #CC4205;
+      } 
+
+      .header-image {
+        position: center;
+        width: 100%;
+        height: auto; /* Maintains aspect ratio */
+        background-image: url('your-image-path.png');
+        background-size: 100% auto;
+        /*background-size: cover; /* Ensures the image covers the entire div */
+        background-position: center; /* Centers the image */
+        background-repeat: no-repeat; /* Prevents image from repeating */
+        background-color: transparent; /* Ensures transparency works */
+        display: block; /* Removes any default spacing */
+        margin: 0; /* Removes default margins */
+        padding: 2; /* Removes default padding */
+      }
+      
+      h1 {
+        display:inline-block;
+        text-align:left;
+        max-width: 50%;
+        padding: 3px;
+        border-radius: 8px;
+        margin: 4rem auto 2rem auto;
+        text-align: left;
+        font-family: "Petrona", "Times New Roman", Times, serif;
+        font-size: 24px;
+        color: #3f3f3b;
+        background-color: #dfb600;
+        }
+
+      .transportation {
+        display:inline-block;
+        text-align:left;
+        max-width: 50%;
+        padding: 3px;
+        border-radius: 8px;
+        margin: auto;
+        text-align: left;
+        font-family: "Petrona", "Times New Roman", Times, serif;
+        font-size: 20px;
+        color: #3f3f3b;
+        background-color: #0cb9e4;
+      }
+
+      .food {
+        display:inline-block;
+        text-align:left;
+        max-width: 50%;
+        padding: 3px;
+        border-radius: 8px;
+        margin: auto;
+        text-align: left;
+        font-family: "Petrona", "Times New Roman", Times, serif;
+        font-size: 20px;
+        color: #F5F5F5;
+        background-color: #C93333;
+      }
+
+      .hotel {
+        display:inline-block;
+        text-align:left;
+        max-width: 50%;
+        padding: 3px;
+        border-radius: 8px;
+        margin: auto;
+        text-align: left;
+        font-family: "Petrona", "Times New Roman", Times, serif;
+        font-size: 20px;
+        color: #3f3f3b;
+        background-color: #DCB401;
+      }
+
+      .shopping {
+        display:inline-block;
+        text-align:left;
+        max-width: 50%;
+        padding: 3px;
+        border-radius: 8px;
+        margin: auto;
+        text-align: left;
+        font-family: "Petrona", "Times New Roman", Times, serif;
+        font-size: 20px;
+        color: #F5F5F5;
+        background-color: #058896;
+      }
+
+      .tickets {
+        display:inline-block;
+        text-align:left;
+        max-width: 50%;
+        padding: 3px;
+        border-radius: 8px;
+        margin: auto;
+        text-align: left;
+        font-family: "Petrona", "Times New Roman", Times, serif;
+        font-size: 20px;
+        color: #F5F5F5;
+        background-color: #003366;
+      }
+
+      .tour-agency {
+        display:inline-block;
+        text-align:left;
+        max-width: 50%;
+        padding: 3px;
+        border-radius: 8px;
+        margin: auto;
+        text-align: left;
+        font-family: "Petrona", "Times New Roman", Times, serif;
+        font-size: 20px;
+        color: #F5F5F5;
+        background-color: #808080;
+      }
+
+      label {
+        position: relative;
+      }
+
+      .label-food:before {
+        content: "";
+        position: absolute;
+        left: 10px;
+        top: 0;
+        bottom: 0;
+        width: 20px;
+        background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='25' height='25' viewBox='0 0 25 25' fill-rule='evenodd'%3E%3Cpath d='M16.036 18.455l2.404-2.405 5.586 5.587-2.404 2.404zM8.5 2C12.1 2 15 4.9 15 8.5S12.1 15 8.5 15 2 12.1 2 8.5 4.9 2 8.5 2zm0-2C3.8 0 0 3.8 0 8.5S3.8 17 8.5 17 17 13.2 17 8.5 13.2 0 8.5 0zM15 16a1 1 0 1 1 2 0 1 1 0 1 1-2 0'%3E%3C/path%3E%3C/svg%3E") center / contain no-repeat;
+      }
+      
+      .scrolly-p {
+        justify-content: center;
+        max-width: 80%;
+        font-family: "Raleway", Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+        font-size: 19px;
+        color: #3f3f3b;
+        background-color: #dfb600;
+        border-radius: 8px;
+      }
+
+      .header {
+        display: flex;
+        max-width: 1200px;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        padding: 16px;
+      }
+      
+      #scrolly {
+        position: relative;
+        padding: 1rem;
+        min-height: 100vh;
+      }
+
+      #text {
+        justify-content: center;
+        width: 80%;
+        margin: auto; /* Adds vertical spacing */
+        padding: 2rem;
+        background-color: #4d0000;
+        border-radius: 8px; /* Optional: Rounded corners */
+        /*box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Optional: Subtle shadow */
+        /*box-sizing: border-box;*/
+      }
+
+      .scrolly-overlay {
+        position: relative;
+        padding: 0;
+        max-width: 35rem;
+        margin-left: 2px;
+        margin-right: auto;
+        font-family: "Raleway", Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 19px;
+        color: #3f3f3b;
+      }
+
+      .sticky-thing {
+        position: -webkit-sticky;
+        position: sticky;
+        left: 0;
+        width: 100%;
+        margin: 0;
+        z-index: 0;
+        top: 0;
+        height: 100vh;
+        /* Center everything inside */
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        justify-content: center;
+      }
+
+      #scrolly::after {
+        content: "";
+        display: block;
+        height: 100vh; /* Adds space after the sticky section */
+        width: 100%;
+      }
+
+      .step {
+        margin: 2rem auto 2rem auto;
+        margin-bottom: 25rem;
+        border-radius: 8px;
+        background-color: #dfb600;
+        color: black;
+        text-align: center;
+      }
+
+      #paragraph {
+        float: center;
+        width: 80%;
+        margin: 2rem auto 2rem auto;
+        border-radius: 8px;
+        background-color: #4d0000;
+        color: #F5F5F5;
+        text-align: justify;
+        font-family: "Petrona", "Times New Roman", Times, serif;
+        font-size: 18px;
+      }
+
+      .img-right {
+        float: right;
+        margin-top: 0;
+        padding: 12px;
+        width: 40%;
+      }
+
+      .img-right-small {
+        float: right;
+        margin-top: 0;
+        padding: 12px;
+        width: 24%;
+      }
+
+      .img-left-small {
+        float: left;
+        margin-top: 0;
+        padding: 12px;
+        width: 24%;
+      }
+
+      .flourish-embed {
+        float: center;
+        margin-top: 0;
+        padding: 12px;
+        width: 64%;
+        justify-content: center;
+      } 
+
+      .step p {
+        padding: 1rem;
+        font-size: 1.25rem;
+        border: black;
+      }
+
+      .photoDiv {
+        width: 49%;
+        margin-right: 0px;
+        margin-left: auto;
+        display: block;
+      }
+
+      .hidden { visibility: hidden; }
+
+      /* When it's less than 700 pixels wide, do normal scrollytelling */
+      @media only screen and (min-width: 700px) {
+        #scrolly.side-by-side {
+          display: flex;
+        }
+
+        #scrolly.side-by-side > div {
+          flex-basis: 0;
+          flex-grow: 1;
+          flex-shrink: 1;
+          padding: 0.75em;
+        }
+
+        #scrolly.side-by-side .scrolly-overlay {
+          margin-top: 70vh;
+          order: 0;
+          /* Change these to adjust sizing options */
+          min-width: 15rem;
+          max-width: 20rem;
+        }
+
+        #scrolly.side-by-side .sticky-thing {
+          order: 1;
+          flex-grow: 2;
+        }
+      }
+    </style>
+	<script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/scrollama/3.0.4/scrollama.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.3.0/d3.min.js"></script>
+	
+  </head>
+
+  <body>
+
+    <div class="content">
+  
+      <section id="scrolly">
+        
+        <div class="sticky-thing">
+<!-- Sticky Thing 1 goes below this line -->
+
+<img id="scrollyPhoto" class="photoDiv" src="img/prologue_1.webp">
+
+<!-- Sticky Thing 1 goes above this line -->
+
+        </div>
+
+        <div class="scrolly-overlay">
+          <div class="step" id="step1">
+            <p>This is me and my mom....</p>
+          </div>
+          <div class="step" id="step2">
+            <p>...in front of the Potala Palace, in <strong>Tibet</strong>.</p>
+          </div>
+          <div class="step" id="step3">
+            <p>In the past 15 years we've travelled quite a bit. She's <strong>curious, adventurous and a great company</strong>.</p>
+            <p>But we had never gone to a place as far and different as <strong>China</strong>.</p>
+          </div>
+          <div class="step" id="step4">
+            <p>On May 2025, we finally made it there, spending <strong>23 days in eight cities</strong>.</p>
+            <p>And one question a lot of people had was: <strong>how much does a trip like this cost?</strong></p>
+            
+          </div>
+          
+        </div>
+ 
+      </section>
+
+      <section id="text">
+
+        <div class="scrolly-p">
+          <p>I tried to answer that with data science.</p>
+        </div>
+      
+        <div class="header">
+            <img src="img/header.png" width=100%>
+        </div>
+
+        <div id="paragraph" style="margin: 0; padding: 0;">
+
+        	<br><br>
+          
+          <p>Spoiler: the short answer to this question is <strong>US$ 4,452.59</strong>.<br>But that would have made for a really boring website. So let's start with a little background.</p>
+
+          <h1 style="text-align: left;">Why China?</h1>
+
+          <p>We didn't go to China because we're globetrotters. We simply had the opportunity to go because my younger sister Renata was living there for a while. That means we had free accommodation in Beijing, someone who could show us how things worked, and it's nice for my mom to visit and spend some time with her last child.</p>
+
+          <p>But Diva is 72 years old, speaks only a little English and no Chinese. So taking two long flights and going through customs by herself, then travelling alone around the country on the days Renata had to work, wasn't a very simple plan. Lucky for her she has two other daughters, which is where I come in.</p>
+
+          <img class="img-right" src="charts/chart_00_pct_airfare.webp">
+          
+          <p>And I'm not a China newbie: since my first trip to China in 2023 (alongside my older sister and our father), I had wanted to take my mother there too.</p>
+
+          <p>Planning began in late 2024. We chose May 2025 to avoid the summer heat and started scouting for good airfare deals and places we could visit.</p>
+          
+          <p>It cost us <strong>US$ 1,652.22 each</strong>, probably the most expensive flight I've ever paid for and more than a third of the total cost of the trip.</p>
+
+          <p>We boarded a plane in São Paulo, Brazil on May 9th and arrived in Beijing 30 hours laters after a layover in Addis Ababa, Ethiopia.</p>
+          
+          <p>Our return flight took off just after midnight on June 4th and, because of the <s>magic</s> science of timezones, roughly 27 hours later we arrived in Brazil still on June 4th.</p>
+
+          <img src="img/world_map.webp" width=100%>
+        
+        </div>
+
+        <div class="flourish-embed" data-src="visualisation/24149033">
+          <script src="https://public.flourish.studio/resources/embed.js"></script>
+          <noscript><img src="https://public.flourish.studio/visualisation/24149033/thumbnail" width="100%" alt="visualization" /></noscript>
+        </div>
+
+      </section>
+
+      <section id="text">
+
+        <div id="paragraph" style="margin: 0; padding: 0;">
+
+          <h1 style="text-align: left;">How does money work in China?</h1>
+
+          <p>You would think just like money has worked for around 2,600 years, right? But China has had a rapid rise of digital wallets, in part thanks to its superapps, such as Alipay and Weixin (or WeChat).</p>
+
+          <img class="img-right-small" src="img/yuan_bill.webp">
+
+          <p>In fact, we only saw one 50 yuan bill during the entire trip, when we paid for a deposit on the Summer Palace audio guide using the app, but received the money back in cash when we returned it.</p>
+
+          <p>It was so eventful we took a picture of the bill:</p>
+
+          <video class="img-left-small" src="vid/alipay.mp4" preload="auto" tabindex="0" playsinline autoplay loop muted></video>
+
+          <p>To use the apps you sign up, confirm your personal details, add a credit card and you're good to go. You can pay for the subway, the bus, bike rentals, cab-hailing, restaurant orders or 
+            direct payments via QR code. And that's pretty much how everyone pays for things.</p>
+
+          <p>But payments with credit card get an extra fee charge. An alternative for users with a Chinese bank account is to transfer money to a balance account inside the app.</p>
+
+          <p>Renata has one, so we wired her money and she transferred money to our apps, which we used for most expenses.</p>
+          
+          <p>She became our Renatabank: anytime our balance ran out, we'd ask for more. Then she would also end up paying directly for other purchases made on the three other important apps for foreigners in China: train and plane tickets and hotel reservations on <strong>Trip.com</strong>, and online shopping on <strong>Taobao</strong> and <strong>Meituan</strong>.</p>
+
+          <p>Besides, using two apps was confusing and we wanted to keep some track just to make sure our “savings account” wouldn't go negative. So sometimes, for more expensive purchases, we'd use a family credit card. And I would try to write down each expense in a note on my phone whenever I had some free time, usually on taxi rides or train and airport lounges.</p>
+
+          <p>These messy notes, Renata's balance account and the credit card bill were the sources for this data analysis, which had the help of AI to structure the text into a dataset and classify each of the 160+ expenses in six categories:</p>
+
+          <ul>
+            <li class="food">Food</li><br>
+            <li class="hotel">Hotel</li><br>
+            <li class="tickets">Tickets</li><br>
+            <li class="tour-agency">Tour Agency</li><br>
+            <li class="shopping">Shopping</li><br>
+            <li class="transportation">Transportation</li>
+          </ul>
+          
+          <p><em>(Read the methodology for data extraction on GitHub.)</em></p>
+        </div>
+
+        <div id="paragraph" style="margin: 0; padding: 0;">
+
+          <h1 style="text-align: left;">Where did our money go?</h1>
+
+          <p>If 37% of the cost of the trip was just for the flights getting us there and back, where else did we spend the rest of the US$ 2,800? Well, it turns out transportation still wins without the international connecting flights:</p>
+    
+        </div>
+
+        <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/24148017">
+          <script src="https://public.flourish.studio/resources/embed.js"></script>
+          <noscript><img src="https://public.flourish.studio/visualisation/24148017/thumbnail" alt="bar-chart-race visualization" /></noscript>
+        </div>
+
+        <div id="paragraph" style="margin: 0; padding: 0;">
+
+          <p>I guess it's safe to say the most expensive part of travelling to China is getting to different places.</p>
+    
+          <p>A breakdown of the expenses by category and by each day of the trip can show us more details about the transportation costs. We used quite a bit of e-hailing (in China, the company equivalent to Uber is called Didi), but nothing compares to the flights or train tickets.</p>
+    
+        </div>
+
+        <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/24148598">
+          <script src="https://public.flourish.studio/resources/embed.js"></script>
+          <noscript><img src="https://public.flourish.studio/visualisation/24148598/thumbnail" width="100%" alt="bar-chart-race visualization" /></noscript>
+        </div>        
+
+        <div id="paragraph" style="margin: 0; padding: 0;">
+
+          <p>It's a testament to how travelling by train is the most interesting option: not only is it more cost-effective, it's a lot more comfortable from longer trips to the airports, the hassle of checking in and luggage limitations… Not to mention it's less prone to delays.</p>
+
+          <p>Whenever we were close enough (up to four or five hours by high-speed train, going up to 300km/h), we chose the railways instead of flying. Except for the ride back from Shanghai to Beijing, when we decided to take a plane and deeply regretted it, because the delay ate the entire time advantage from the train ride.</p>
+
+          <p>The second most expensive category is the tour agency packages we purchased. It's a sum of two packages.</p>
+
+          <p>The first one was to tour Datong, which included mostly the driver for the two day-trips we took.</p>
+
+          <p>The other was the tour of Tibet, which is the really expensive one, because it included a tour guide, a driver or train tickets, entry tickets to monasteries and other touristic sights, accommodation at hotels and even some of the meals.</p>
+
+          <p>Looking at the heatmap of expenses by day and category, it's clear how this category stands out from others, and makes the spending with hotels and tickets drop to zero in the Tibetan cities of Lhasa and Shigatse, from May 24th till May 29th.</p>
+
+          <p>Hotel spending was also zero in Beijing, where we stayed at my sister's house.</p>
+
+        </div>
+
+        <div class="flourish-embed flourish-heatmap" data-src="visualisation/24148010">
+          <script src="https://public.flourish.studio/resources/embed.js"></script>
+          <noscript><img src="https://public.flourish.studio/visualisation/24148010/thumbnail" width="50%" alt="heatmap visualization" /></noscript>
+        </div>        
+
+        <div id="paragraph" style="margin: 0; padding: 0;">
+
+          <p>But the fact that the Tibetan tour package concentrates spending in the Tour Agency category doesn't mean the costs are similar to other cities.</p>
+
+          <p>For this analysis, I joined the expenses from both cities and calculated the average by the six days we spent there. n places where we paid for our own transportation, hotel, tickets and food, the average spent by day was still lower than in Lhasa and Shigatse.</p>
+
+          <p>You can see the results on the map below:</p>
+
+        </div>         
+
+        <div class="flourish-embed flourish-map" data-src="visualisation/24145696">
+          <script src="https://public.flourish.studio/resources/embed.js"></script>
+          <noscript><img src="https://public.flourish.studio/visualisation/24145696/thumbnail" width="100%" alt="map visualization" /></noscript>
+        </div>
+
+        <div id="paragraph" style="margin: 0; padding: 0;">
+
+          <p>The costs include all the shopping we did, such as meals, souvenirs and anything else we spent money on. That is the category that could vary the most between travellers (for example, I was entirely responsible for a big Uniqlo haul in Shanghai, whereas my mother bought so many scarves on the Silk Market in Beijing), so you can track each of them in the dispersion graph below:</p>
+
+        </div>  
+
+        <div class="flourish-embed flourish-scatter" data-src="visualisation/24147888">
+          <script src="https://public.flourish.studio/resources/embed.js"></script>
+          <noscript><img src="https://public.flourish.studio/visualisation/24147888/thumbnail" width="50%" alt="scatter visualization" /></noscript>
+        </div>
+        
+      </section>
+
+
+    <script>
+
+      
+    /* Scrollytelling code goes under here */
+
+      // Code for the Photo Div #1 (aka #scrollyPhoto1)
+        
+        // Entering Step One
+      d3.select("#step1").on('stepin',function(e) {
+        console.log("We've arrived at STEP ONE in the photo div")
+        d3.select("#scrollyPhoto").attr("src", "img/prologue_1.webp");
+      })
+
+        // Entering Step Two
+        d3.select("#step2").on('stepin',function(e) {
+        console.log("We've arrived at STEP TWO in the photo div")
+        d3.select("#scrollyPhoto").attr("src", "img/prologue_2.webp");
+      })
+
+       // Entering Step Three
+       d3.select("#step3").on('stepin',function(e) {
+        console.log("We've arrived at STEP Three in the photo div")
+        d3.select("#scrollyPhoto").attr("src", "img/prologue_3.webp");
+      })
+    
+    // Entering Step Four
+       d3.select("#step4").on('stepin',function(e) {
+        console.log("We've arrived at STEP Three in the photo div")
+        d3.select("#scrollyPhoto").attr("src", "img/prologue_4.webp");
+      })
+
+    </script>
+
+<script>
+    const scroller = scrollama();
+
+	scroller
+		.setup({
+			step: "#scrolly .scrolly-overlay .step",
+			offset: 1,
+			debug: false
+		})
+		.onStepEnter(function({ element, index, direction}) {
+			const event = new CustomEvent('stepin', { detail: { direction: direction } })
+			element.dispatchEvent(event);
+		})
+		.onStepExit(function({ element, index, direction }) {
+			const event = new CustomEvent('stepout', { detail: { direction: direction } })
+			element.dispatchEvent(event);
+		});
+
+	window.addEventListener("resize", scroller.resize);
+    </script>
+
+
+    <!-- ai2html resizer script -->
+
+<script type="text/javascript">
+  (function() {
+      // only want one resizer on the page
+      if (document.documentElement.className.indexOf("g-resizer-v3-init") > -1) return;
+      document.documentElement.className += " g-resizer-v3-init";
+      // require IE9+
+      if (!("querySelector" in document)) return;
+      function resizer() {
+          var elements = Array.prototype.slice.call(document.querySelectorAll(".g-artboard[data-min-width]")),
+              widthById = {};
+          elements.forEach(function(el) {
+              var parent = el.parentNode,
+                  width = widthById[parent.id] || parent.getBoundingClientRect().width,
+                  minwidth = el.getAttribute("data-min-width"),
+                  maxwidth = el.getAttribute("data-max-width");
+              widthById[parent.id] = width;
+
+              if (+minwidth <= width && (+maxwidth >= width || maxwidth === null)) {
+                  el.style.display = "block";
+              } else {
+                  el.style.display = "none";
+              }
+          });
+          try {
+              if (window.parent && window.parent.$) {
+                  window.parent.$("body").trigger("resizedcontent", [window]);
+              }
+              if (window.require) {
+                  require(['foundation/main'], function() {
+                      require(['shared/interactive/instances/app-communicator'], function(AppCommunicator) {
+                          AppCommunicator.triggerResize();
+                      });
+                  });
+              }
+          } catch(e) { console.log(e); }
+      }
+
+      document.addEventListener('DOMContentLoaded', resizer);
+      // feel free to replace throttle with _.throttle, if available
+      window.addEventListener('resize', throttle(resizer, 200));        
+
+      function throttle(func, wait) {
+          // from underscore.js
+          var _now = Date.now || function() { return new Date().getTime(); },
+              context, args, result, timeout = null, previous = 0;
+          var later = function() {
+              previous = _now();
+              timeout = null;
+              result = func.apply(context, args);
+              if (!timeout) context = args = null;
+          };
+          return function() {
+              var now = _now(), remaining = wait - (now - previous);
+              context = this;
+              args = arguments;
+              if (remaining <= 0 || remaining > wait) {
+                  if (timeout) {
+                      clearTimeout(timeout);
+                      timeout = null;
+                  }
+                  previous = now;
+                  result = func.apply(context, args);
+                  if (!timeout) context = args = null;
+              } else if (!timeout && options.trailing !== false) {
+                  timeout = setTimeout(later, remaining);
+              }
+              return result;
+          };
+      }
+
+     
+  })();
+</script>
+  </div>
+  </body>
+</html>

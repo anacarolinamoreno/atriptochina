@@ -1,0 +1,145 @@
+date,variable,value
+2025-05-11,Food,0.0
+2025-05-12,Food,6.870000000000001
+2025-05-13,Food,13.690000000000001
+2025-05-14,Food,17.5
+2025-05-15,Food,2.08
+2025-05-16,Food,55.64
+2025-05-17,Food,29.509999999999998
+2025-05-18,Food,7.81
+2025-05-19,Food,17.44
+2025-05-20,Food,12.23
+2025-05-21,Food,7.5
+2025-05-22,Food,1.81
+2025-05-23,Food,0.0
+2025-05-24,Food,21.67
+2025-05-25,Food,0.0
+2025-05-26,Food,0.0
+2025-05-27,Food,3.61
+2025-05-28,Food,8.81
+2025-05-29,Food,1.53
+2025-05-30,Food,5.93
+2025-05-31,Food,0.0
+2025-06-01,Food,9.73
+2025-06-02,Food,2.08
+2025-06-03,Food,0.0
+2025-05-11,Hotel,0.0
+2025-05-12,Hotel,0.0
+2025-05-13,Hotel,20.28
+2025-05-14,Hotel,0.0
+2025-05-15,Hotel,0.0
+2025-05-16,Hotel,0.0
+2025-05-17,Hotel,0.0
+2025-05-18,Hotel,97.73
+2025-05-19,Hotel,0.0
+2025-05-20,Hotel,0.0
+2025-05-21,Hotel,0.0
+2025-05-22,Hotel,0.0
+2025-05-23,Hotel,0.0
+2025-05-24,Hotel,0.0
+2025-05-25,Hotel,0.0
+2025-05-26,Hotel,0.0
+2025-05-27,Hotel,0.0
+2025-05-28,Hotel,0.0
+2025-05-29,Hotel,0.0
+2025-05-30,Hotel,0.0
+2025-05-31,Hotel,63.98
+2025-06-01,Hotel,0.0
+2025-06-02,Hotel,0.0
+2025-06-03,Hotel,0.0
+2025-05-11,Shopping,0.0
+2025-05-12,Shopping,18.060000000000002
+2025-05-13,Shopping,5.42
+2025-05-14,Shopping,15.11
+2025-05-15,Shopping,6.04
+2025-05-16,Shopping,0.0
+2025-05-17,Shopping,2.78
+2025-05-18,Shopping,0.46
+2025-05-19,Shopping,93.24
+2025-05-20,Shopping,23.42
+2025-05-21,Shopping,2.78
+2025-05-22,Shopping,11.46
+2025-05-23,Shopping,0.0
+2025-05-24,Shopping,0.0
+2025-05-25,Shopping,11.389999999999999
+2025-05-26,Shopping,6.94
+2025-05-27,Shopping,6.94
+2025-05-28,Shopping,20.13
+2025-05-29,Shopping,20.509999999999998
+2025-05-30,Shopping,85.85000000000001
+2025-05-31,Shopping,0.0
+2025-06-01,Shopping,0.0
+2025-06-02,Shopping,1.2200000000000002
+2025-06-03,Shopping,69.2
+2025-05-11,Tickets,0.0
+2025-05-12,Tickets,0.0
+2025-05-13,Tickets,2.36
+2025-05-14,Tickets,7.99
+2025-05-15,Tickets,0.0
+2025-05-16,Tickets,6.949999999999999
+2025-05-17,Tickets,0.0
+2025-05-18,Tickets,9.26
+2025-05-19,Tickets,30.28
+2025-05-20,Tickets,4.17
+2025-05-21,Tickets,27.78
+2025-05-22,Tickets,0.0
+2025-05-23,Tickets,4.17
+2025-05-24,Tickets,38.89
+2025-05-25,Tickets,0.0
+2025-05-26,Tickets,0.0
+2025-05-27,Tickets,0.0
+2025-05-28,Tickets,0.0
+2025-05-29,Tickets,5.56
+2025-05-30,Tickets,0.0
+2025-05-31,Tickets,0.0
+2025-06-01,Tickets,17.08
+2025-06-02,Tickets,0.46
+2025-06-03,Tickets,0.0
+2025-05-11,Tour Agency,0.0
+2025-05-12,Tour Agency,0.0
+2025-05-13,Tour Agency,75.0
+2025-05-14,Tour Agency,0.0
+2025-05-15,Tour Agency,0.0
+2025-05-16,Tour Agency,0.0
+2025-05-17,Tour Agency,0.0
+2025-05-18,Tour Agency,0.0
+2025-05-19,Tour Agency,0.0
+2025-05-20,Tour Agency,0.0
+2025-05-21,Tour Agency,0.0
+2025-05-22,Tour Agency,0.0
+2025-05-23,Tour Agency,0.0
+2025-05-24,Tour Agency,702.92
+2025-05-25,Tour Agency,0.0
+2025-05-26,Tour Agency,0.0
+2025-05-27,Tour Agency,0.0
+2025-05-28,Tour Agency,0.0
+2025-05-29,Tour Agency,0.0
+2025-05-30,Tour Agency,0.0
+2025-05-31,Tour Agency,0.0
+2025-06-01,Tour Agency,0.0
+2025-06-02,Tour Agency,0.0
+2025-06-03,Tour Agency,0.0
+2025-05-11,Transportation,1658.25
+2025-05-12,Transportation,11.63
+2025-05-13,Transportation,36.08
+2025-05-14,Transportation,2.78
+2025-05-15,Transportation,29.57
+2025-05-16,Transportation,4.47
+2025-05-17,Transportation,61.18
+2025-05-18,Transportation,9.85
+2025-05-19,Transportation,5.01
+2025-05-20,Transportation,116.11
+2025-05-21,Transportation,27.18
+2025-05-22,Transportation,3.48
+2025-05-23,Transportation,0.62
+2025-05-24,Transportation,429.45
+2025-05-25,Transportation,0.0
+2025-05-26,Transportation,0.0
+2025-05-27,Transportation,0.0
+2025-05-28,Transportation,0.0
+2025-05-29,Transportation,8.42
+2025-05-30,Transportation,0.97
+2025-05-31,Transportation,284.72
+2025-06-01,Transportation,6.02
+2025-06-02,Transportation,9.299999999999999
+2025-06-03,Transportation,6.25

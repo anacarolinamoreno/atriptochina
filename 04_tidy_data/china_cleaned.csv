@@ -1,0 +1,165 @@
+date,city,expense,payment_source,payment_type,category,price,price_usd,price_usd_per_capita
+2025-05-11,Beijing,Taxi from the airport to Renata's house,Carol,apps,Transportation,87.0,12.08,6.04
+2025-05-12,Beijing,Didi to the fried dumpling restaurant,Carol,apps,Transportation,49.93,6.93,3.47
+2025-05-12,Beijing,Necklace and earrings Carol + gift earring from Lara,Carol,apps,Shopping,170.0,23.61,11.81
+2025-05-12,Beijing,3 Decks of cards,Carol,apps,Shopping,90.0,12.5,6.25
+2025-05-12,Beijing,Subway,Carol,apps,Transportation,6.0,0.8300000000000001,0.42
+2025-05-12,Beijing,Lunch in Qianmen,Carol,apps,Food,64.0,8.89,4.44
+2025-05-12,Beijing,Peanut ice cream,Carol,apps,Food,9.9,1.3800000000000001,0.6900000000000001
+2025-05-12,Beijing,Didi to the Temple of Heaven (was closed),Carol,apps,Transportation,38.42,5.34,2.67
+2025-05-12,Beijing,Didi home,Carol,apps,Transportation,45.0,6.25,3.12
+2025-05-12,Beijing,Didi to Qianmen,Carol,apps,Transportation,14.8,2.06,1.03
+2025-05-12,Beijing,Mountain Coffee,Carol,apps,Food,25.0,3.47,1.74
+2025-05-12,Beijing,Didi to the Pearl Market (Hongqiao Market),Carol,apps,Transportation,13.3,1.85,0.92
+2025-05-13,Datong,Train from Beijing to Datong,Renata,apps,Transportation,378.0,52.5,26.25
+2025-05-13,Datong,Dinner Zini 369,Diva,apps,Food,66.0,9.17,4.58
+2025-05-13,Beijing,Lemon iced tea,Carol,apps,Food,8.0,1.11,0.56
+2025-05-13,Datong,Datong tourism package,Paula,credit card,Tour Agency,1080.0,150.0,75.0
+2025-05-13,Datong,Apple juice,Carol,apps,Food,7.0,0.97,0.49
+2025-05-13,Datong,Didi to the hotel,Diva,apps,Transportation,7.5,1.04,0.52
+2025-05-13,Beijing,Bag and bookmark,Carol,apps,Shopping,78.0,10.83,5.42
+2025-05-13,Datong,Didi to restaurant Zini 369,Diva,apps,Transportation,7.3,1.01,0.51
+2025-05-13,Datong,Two hotel breakfasts,Diva,apps,Food,116.0,16.11,8.06
+2025-05-13,Datong,Didi to Weidu Hotel in Datong,Carol,apps,Transportation,18.2,2.53,1.26
+2025-05-13,Datong,Da Tong Weidu International Hotel,Diva,apps,Hotel,292.0,40.56,20.28
+2025-05-13,Beijing,Didi to Beijingbei,Carol,apps,Transportation,53.73,7.46,3.73
+2025-05-13,Beijing,Temple of Heaven ticket,Carol,apps,Tickets,34.0,4.72,2.36
+2025-05-13,Beijing,Subway,Carol,apps,Transportation,10.0,1.39,0.6900000000000001
+2025-05-13,Beijing,Didi to Temple of Heaven,Carol,apps,Transportation,45.0,6.25,3.12
+2025-05-14,Datong,Souvenir bells,Diva,apps,Shopping,40.0,5.56,2.78
+2025-05-14,Datong,Bus to Hanging Temple,Diva,apps,Transportation,40.0,5.56,2.78
+2025-05-14,Datong,KFC Coffee,Carol,apps,Food,20.0,2.78,1.39
+2025-05-14,Datong,Tissues,Diva,apps,Shopping,5.4,0.75,0.38
+2025-05-14,Datong,Datong notebooks,Diva,apps,Shopping,75.0,10.42,5.21
+2025-05-14,Datong,Hanging Temple entrance,Diva,apps,Tickets,115.0,15.97,7.99
+2025-05-14,Datong,Lunch at Yunjinhui,Diva,apps,Food,232.0,32.22,16.11
+2025-05-14,Datong,Small souvenirs Hanging Temple,Diva,apps,Shopping,97.0,13.47,6.74
+2025-05-15,Beijing,Subway home,Diva,apps,Transportation,10.0,1.39,0.6900000000000001
+2025-05-15,Datong,Bus to Yungang Grottoes,Diva,apps,Transportation,30.0,4.17,2.08
+2025-05-15,Datong,Taxi to the station,Diva,apps,Transportation,19.8,2.75,1.3800000000000001
+2025-05-15,Datong,Train from Datong to Beijing,Renata,apps,Transportation,366.0,50.83,25.42
+2025-05-15,Datong,Small souvenir shopping,Diva,apps,Shopping,87.0,12.08,6.04
+2025-05-15,Datong,Juices,Diva,apps,Food,30.0,4.17,2.08
+2025-05-16,Beijing,Flavored water Summer Palace,Diva,apps,Food,8.0,1.11,0.56
+2025-05-16,Beijing,Dinner at Migas (Spanish),Diva,apps,Food,645.0,89.58,44.79
+2025-05-16,Beijing,Subway to Migas,Diva,apps,Transportation,10.0,1.39,0.6900000000000001
+2025-05-16,Beijing,Almond cookies,Diva,apps,Food,25.0,3.47,1.74
+2025-05-16,Beijing,Entrance Summer Palace,Diva,apps,Tickets,60.0,8.33,4.17
+2025-05-16,Beijing,Audio guide Summer Palace,Diva,apps,Tickets,40.0,5.56,2.78
+2025-05-16,Beijing,Taxi Summer Palace,Diva,apps,Transportation,54.5,7.57,3.78
+2025-05-16,Beijing,Lunch,Diva,apps,Food,115.0,15.97,7.99
+2025-05-16,Beijing,Waters,Carol,apps,Food,8.0,1.11,0.56
+2025-05-17,Suzhou,Chicken bucket,Diva,apps,Food,20.98,2.91,1.46
+2025-05-17,Beijing,Chicken wrap,Diva,apps,Food,39.0,5.42,2.71
+2025-05-17,Beijing,Large coffee,Diva,apps,Food,44.0,6.11,3.06
+2025-05-17,Suzhou,Fans,Diva,apps,Shopping,20.0,2.78,1.39
+2025-05-17,Suzhou,Didi to Beijingnan station,Diva,apps,Transportation,47.0,6.53,3.26
+2025-05-17,Suzhou,Train from Beijing to Suzhou,Renata,apps,Transportation,1224.0,170.0,56.67
+2025-05-17,Beijing,Fruits at train station,Carol,apps,Food,17.9,2.49,1.24
+2025-05-17,Suzhou,Subway to hotel,Diva,apps,Transportation,10.0,1.39,0.6900000000000001
+2025-05-17,Suzhou,Subway,Diva,apps,Transportation,8.0,1.11,0.56
+2025-05-18,Suzhou,HanTin Premium Hotel,Renata,apps,Hotel,656.0,91.11,30.37
+2025-05-17,Suzhou,Hair clip,Diva,apps,Shopping,20.0,2.78,1.39
+2025-05-17,Beijing,Dinner,Tica,apps,Food,303.0,42.08,21.04
+2025-05-18,Suzhou,Train from Suzhou to Shanghai,Renata,apps,Transportation,168.0,23.33,7.78
+2025-05-18,Suzhou,Entrance Humble Administrator's Garden,Carol,apps,Tickets,200.0,27.78,9.26
+2025-05-18,Suzhou,Postcard,Carol,apps,Shopping,10.0,1.39,0.46
+2025-05-18,Suzhou,Espresso + milk,Diva,apps,Food,20.0,2.78,0.93
+2025-05-18,Shanghai,Dinner,Diva,apps,Food,99.0,13.75,6.88
+2025-05-20,Beijing,Taxi from airport to Renata's house,Paula,credit card,Transportation,102.0,14.17,7.08
+2025-05-18,Suzhou,Subway,Diva,apps,Transportation,4.0,0.56,0.19
+2025-05-18,Shanghai,Taxi to the hotel,Diva,apps,Transportation,27.0,3.75,1.8800000000000001
+2025-05-18,Shanghai,Homeinn Hotel,Renata,apps,Hotel,970.0,134.72,67.36
+2025-05-19,Shanghai,Didi to The Captain,Diva,apps,Transportation,39.0,5.42,2.71
+2025-05-19,Shanghai,Little shopping at the tower,Diva,apps,Shopping,66.0,9.17,4.58
+2025-05-19,Shanghai,Little shopping at the tower,Carol,apps,Shopping,83.0,11.53,5.76
+2025-05-19,Shanghai,Oriental Pearl Tower ticket,Diva,apps,Tickets,256.0,35.56,17.78
+2025-05-19,Shanghai,"Lunch Starbucks, chicken wrap and fruit",Diva,apps,Food,57.0,7.92,3.96
+2025-05-19,Shanghai,Dinner 2 at the skewer place,Diva,apps,Food,112.0,15.56,7.78
+2025-05-19,Shanghai,Something for 2 yuan,Diva,apps,Shopping,2.0,0.28,0.14
+2025-05-19,Shanghai,MAP Museum of Art of Pudong,Diva,apps,Tickets,180.0,25.0,12.5
+2025-05-19,Shanghai,Boat,Cada uma,apps,Transportation,4.0,0.56,0.28
+2025-05-19,Shanghai,Tissues at the little market next to the hotel,Carol,apps,Shopping,11.8,1.6400000000000001,0.8200000000000001
+2025-05-19,Shanghai,Didi to the boat,Diva,apps,Transportation,14.5,2.01,1.01
+2025-05-19,Shanghai,Hotel breakfast,Diva,apps,Food,76.0,10.56,5.28
+2025-05-19,Shanghai,Little shopping at Pudong museum,Diva,apps,Shopping,18.0,2.5,1.25
+2025-05-19,Shanghai,Uniqlo haul,Paula,credit card,Shopping,1162.0,161.39,80.69
+2025-05-19,Shanghai,Didi to the museum,Diva,apps,Transportation,14.5,2.01,1.01
+2025-05-19,Shanghai,Coke,Diva,apps,Food,6.0,0.8300000000000001,0.42
+2025-05-20,Shanghai,Flight from Shanghai to Beijing,Renata,apps,Transportation,1460.0,202.78,101.39
+2025-05-20,Shanghai,Umbrella + water,Diva,apps,Shopping,44.4,6.17,3.08
+2025-05-20,Shanghai,Hotel breakfast,Diva,apps,Food,76.0,10.56,5.28
+2025-05-20,Shanghai,Carol's dinner,Carol,apps,Food,26.0,3.61,1.81
+2025-05-20,Shanghai,Subway to airport,Cada uma,apps,Transportation,8.0,1.11,0.56
+2025-05-20,Shanghai,Subway,Diva,apps,Transportation,6.0,0.8300000000000001,0.42
+2025-05-20,Shanghai,Dumpling lunch,Diva,apps,Food,32.0,4.44,2.22
+2025-05-20,Shanghai,Miniso socks and headphones,Carol,apps,Shopping,44.9,6.24,3.12
+2025-05-20,Shanghai,Ice cream cone,Diva,apps,Food,42.0,5.83,2.92
+2025-05-20,Shanghai,Didi to Yuyuan,Diva,apps,Transportation,18.0,2.5,1.25
+2025-05-20,Shanghai,Little shopping,Diva,apps,Shopping,120.0,16.67,8.33
+2025-05-20,Shanghai,Yuyuan ticket,Diva,apps,Tickets,60.0,8.33,4.17
+2025-05-20,Shanghai,Chocolates and Inácio’s toy car,Diva,apps,Shopping,128.0,17.78,8.89
+2025-05-20,Beijing,Didi home,Diva,apps,Transportation,77.88,10.82,5.41
+2025-05-21,Mutianyu,Lunch Saigon Baimen,Diva,apps,Food,108.0,15.0,7.5
+2025-05-21,Mutianyu,Didi going,Diva,apps,Transportation,187.27,26.01,13.0
+2025-05-21,Mutianyu,Park tickets + shuttle + cable car,Paula,credit card,Tickets,400.0,55.56,27.78
+2025-05-21,Mutianyu,Hat,Carol,apps,Shopping,40.0,5.56,2.78
+2025-05-21,Mutianyu,Didi return,Diva,apps,Transportation,204.2,28.36,14.18
+2025-05-22,Beijing,Lunch at the museum,Diva,apps,Food,26.0,3.61,1.81
+2025-05-22,Beijing,Return by subway,Each one,apps,Transportation,8.0,1.11,0.56
+2025-05-22,Beijing,Little shopping at museum,Diva,apps,Shopping,165.0,22.92,11.46
+2025-05-22,Beijing,Didi to Tiananmen,Diva,apps,Transportation,42.0,5.83,2.92
+2025-05-23,Beijing,Subway to Forbidden City,Carol,apps,Transportation,9.0,1.25,0.62
+2025-05-23,Beijing,Forbidden City entrance,Diva,apps,Tickets,60.0,8.33,4.17
+2025-05-24,Lhasa,Round-trip flight from Beijing to Lhasa,Paula,credit card,Transportation,9169.11,1273.49,424.5
+2025-05-24,Lhasa,Surprise hot pot lunch,Tica,apps,Food,438.0,60.83,20.28
+2025-05-24,Lhasa,Tibet tour package,Paula,credit card,Tour Agency,15183.0,2108.75,702.92
+2025-05-24,Lhasa,Princess Wejcheng Show,Tica,apps,Tickets,840.0,116.67,38.89
+2025-05-24,Lhasa,Didi to the airport,Carol,apps,Transportation,107.0,14.86,4.95
+2025-05-11,China,Round-trip flight from São Paulo to Beijing,Paula,credit card,Transportation,23791.9,3304.43,1652.21
+2025-05-24,Lhasa,Food,Carol/Renata,apps,Food,30.0,4.17,1.39
+2025-05-25,Lhasa,Incense holder and magnet,Diva,apps,Shopping,76.0,10.56,3.52
+2025-05-25,Lhasa,Bags,Tica,apps,Shopping,120.0,16.67,5.56
+2025-05-25,Lhasa,Protection (Jokar Temple),Renata,apps,Shopping,50.0,6.94,2.31
+2025-05-26,Lhasa,Shopping at the viewpoint,Diva,apps,Shopping,150.0,20.83,6.94
+2025-05-27,Shigatse,Tip for Samsara and Kunga,Carol,apps,Shopping,100.0,13.89,6.94
+2025-05-27,Shigatse,Dinner,Carol,apps,Food,52.0,7.22,3.61
+2025-05-28,Shigatse,Hat,Carol,apps,Shopping,35.0,4.86,2.43
+2025-05-28,Shigatse,Cups,Carol,apps,Shopping,50.0,6.94,3.47
+2025-05-28,Shigatse,Shopping at the Old Market,Carol,apps,Shopping,125.0,17.36,8.68
+2025-05-28,Shigatse,Tip for Lhakdon,Carol,apps,Shopping,30.0,4.17,2.08
+2025-05-28,Shigatse,Juice,Carol,apps,Food,12.0,1.67,0.8300000000000001
+2025-05-28,Shigatse,Shopping,Carol,apps,Shopping,50.0,6.94,3.47
+2025-05-28,Shigatse,Dinner at Pizza Hut,Diva,apps,Food,57.0,7.92,3.96
+2025-05-28,Shigatse,Water and beer,Carol,apps,Food,13.0,1.81,0.9
+2025-05-28,Shigatse,Lunch,Carol,apps,Food,45.0,6.25,3.12
+2025-05-29,Beijing,Taxi from the airport,Paula,credit card,Transportation,102.0,14.17,7.08
+2025-05-29,Lhasa,Shopping at Bokar Supermarket,Carol,apps,Shopping,105.0,14.58,4.86
+2025-05-29,Lhasa,Massage at the airport,Diva,apps,Shopping,30.0,4.17,1.39
+2025-05-29,Lhasa,Didi to Bokar,Diva,apps,Transportation,14.0,1.94,0.65
+2025-05-29,Lhasa,Lunch,Diva,apps,Food,33.0,4.58,1.53
+2025-05-29,Lhasa,Didi to Norbulingka,Diva,apps,Transportation,15.0,2.08,0.6900000000000001
+2025-05-29,Lhasa,Shopping at Norbulingka,Diva,apps,Shopping,308.0,42.78,14.26
+2025-05-29,Lhasa,Norbulingka entrance ticket,Diva,apps,Tickets,120.0,16.67,5.56
+2025-05-30,Beijing,Subway,Paula,credit card,Transportation,14.0,1.94,0.97
+2025-05-30,Beijing,Supermarket,Carol,apps,Food,19.39,2.69,1.35
+2025-05-30,Beijing,Pearl earrings and necklace,Diva,apps,Shopping,70.0,9.72,4.86
+2025-05-30,Beijing,Supermarket,Carol,apps,Shopping,21.3,2.96,1.48
+2025-05-30,Beijing,Lunch in Renata's neighborhood,Diva,apps,Food,66.0,9.17,4.58
+2025-05-30,Beijing,Silk scarves,Paula,credit card,Shopping,1145.0,159.03,79.51
+2025-05-31,Guangzhou,SunYat Sen University Kaifeng Hotel,Renata,apps,Hotel,1382.0,191.94,63.98
+2025-05-31,Guangzhou,Round-trip flight from Beijing to Guangzhou,Renata,apps,Transportation,6150.0,854.17,284.72
+2025-06-01,Guangzhou,Pearl River Cruise,Renata,apps,Tickets,369.0,51.25,17.08
+2025-06-01,Guangzhou,Car from airport to hotel,Renata,apps,Transportation,130.0,18.06,6.02
+2025-06-01,Guangzhou,Lunch,Diva,apps,Food,90.0,12.5,4.17
+2025-06-01,Guangzhou,Dinner,Diva,apps,Food,120.0,16.67,5.56
+2025-06-02,Beijing,Didi from the airport,Renata,apps,Transportation,110.0,15.28,7.64
+2025-06-02,Guangzhou,Bookstore,Carol,apps,Shopping,11.5,1.6,0.53
+2025-06-02,Guangzhou,Latte at M Stand,Diva,apps,Food,45.0,6.25,2.08
+2025-06-02,Guangzhou,Museum,Carol,apps,Tickets,10.0,1.39,0.46
+2025-06-02,Guangzhou,Didi,Carol,apps,Transportation,17.1,2.38,0.79
+2025-06-02,Guangzhou,Shopping at Miniso,Carol,apps,Shopping,15.0,2.08,0.6900000000000001
+2025-06-02,Guangzhou,Didi,Carol,apps,Transportation,18.79,2.61,0.87
+2025-06-03,Beijing,Taobao and Meituan,Renata,apps,Shopping,840.47,116.73,58.37
+2025-06-03,Beijing,Foot massage,Carol,apps,Shopping,156.0,21.67,10.83
+2025-06-03,Beijing,Didi to the airport,Renata,apps,Transportation,90.0,12.5,6.25

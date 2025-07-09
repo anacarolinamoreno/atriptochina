@@ -1,0 +1,962 @@
+[
+  {
+    "data": "12/05",
+    "cidade": "Pequim",
+    "descricao": "Didi pro templo do céu (tava fechado)",
+    "valor": 38.42,
+    "quem_pagou": "Carol",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "12/05",
+    "cidade": "Pequim",
+    "descricao": "Didi pro shopping das Pérolas (Hungqiao Market)",
+    "valor": 13.3,
+    "quem_pagou": "Carol",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "12/05",
+    "cidade": "Pequim",
+    "descricao": "Colar e brincos Carol + brinco presente da Lara",
+    "valor": 170.0,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "12/05",
+    "cidade": "Pequim",
+    "descricao": "Didi pra Qianmen",
+    "valor": 14.8,
+    "quem_pagou": "Carol",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "12/05",
+    "cidade": "Pequim",
+    "descricao": "Almoço Qianmen",
+    "valor": 64.0,
+    "quem_pagou": "Carol",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "12/05",
+    "cidade": "Pequim",
+    "descricao": "Sorvete de amendoim",
+    "valor": 9.9,
+    "quem_pagou": "Carol",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "12/05",
+    "cidade": "Pequim",
+    "descricao": "Metrô",
+    "valor": 6.0,
+    "quem_pagou": "Carol",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "12/05",
+    "cidade": "Pequim",
+    "descricao": "Mountain Coffee",
+    "valor": 25.0,
+    "quem_pagou": "Carol",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "12/05",
+    "cidade": "Pequim",
+    "descricao": "3 Baralhos",
+    "valor": 90.0,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "12/05",
+    "cidade": "Pequim",
+    "descricao": "Didi pra casa",
+    "valor": 45.0,
+    "quem_pagou": "Carol",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "12/05",
+    "cidade": "Pequim",
+    "descricao": "Didi pro restaurante de dumpling fritos",
+    "valor": 49.93,
+    "quem_pagou": "Carol",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "13/05",
+    "cidade": "Pequim",
+    "descricao": "Didi pro Templo do Céu",
+    "valor": 45.0,
+    "quem_pagou": "Carol",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "13/05",
+    "cidade": "Pequim",
+    "descricao": "Ingresso Templo do Céu",
+    "valor": 34.0,
+    "quem_pagou": "Carol",
+    "categoria": "Ingressos"
+  },
+  {
+    "data": "13/05",
+    "cidade": "Pequim",
+    "descricao": "Icetea de limão",
+    "valor": 8.0,
+    "quem_pagou": "Carol",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "13/05",
+    "cidade": "Pequim",
+    "descricao": "Bolsa e marcador de página",
+    "valor": 78.0,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "13/05",
+    "cidade": "Pequim",
+    "descricao": "Metrô",
+    "valor": 10.0,
+    "quem_pagou": "Carol",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "13/05",
+    "cidade": "Pequim",
+    "descricao": "Didi pra Beijingbei",
+    "valor": 53.73,
+    "quem_pagou": "Carol",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "13/05",
+    "cidade": "Datong",
+    "descricao": "Didi pro Hotel Weidu em Datong",
+    "valor": 18.2,
+    "quem_pagou": "Carol",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "13/05",
+    "cidade": "Datong",
+    "descricao": "Dois cafés da manhã do hotel",
+    "valor": 116.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "13/05",
+    "cidade": "Datong",
+    "descricao": "Didi pro restaurante Zini 369",
+    "valor": 7.3,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "13/05",
+    "cidade": "Datong",
+    "descricao": "Jantar Zini 369",
+    "valor": 66.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "13/05",
+    "cidade": "Datong",
+    "descricao": "Suco de maçã",
+    "valor": 7.0,
+    "quem_pagou": "Carol",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "13/05",
+    "cidade": "Datong",
+    "descricao": "Didi pro hotel",
+    "valor": 7.5,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "14/05",
+    "cidade": "Datong",
+    "descricao": "Entrada Hanging Temple",
+    "valor": 115.0,
+    "quem_pagou": "Diva",
+    "categoria": "Ingressos"
+  },
+  {
+    "data": "14/05",
+    "cidade": "Datong",
+    "descricao": "Ônibus Hanging Temple",
+    "valor": 40.0,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "14/05",
+    "cidade": "Datong",
+    "descricao": "Café KFC",
+    "valor": 20.0,
+    "quem_pagou": "Carol",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "14/05",
+    "cidade": "Datong",
+    "descricao": "Comprinhas souvenirs Hanging Temple",
+    "valor": 97.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "14/05",
+    "cidade": "Datong",
+    "descricao": "Almoço Yunjinhui",
+    "valor": 232.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "14/05",
+    "cidade": "Datong",
+    "descricao": "Sinos de souvenir",
+    "valor": 40.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "14/05",
+    "cidade": "Datong",
+    "descricao": "Cadernos Datong",
+    "valor": 75.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "14/05",
+    "cidade": "Datong",
+    "descricao": "Lencinhos",
+    "valor": 5.4,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "15/05",
+    "cidade": "Datong",
+    "descricao": "Ônibus Yungang Grottoes",
+    "valor": 30.0,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "15/05",
+    "cidade": "Datong",
+    "descricao": "Comprinhas souvenir",
+    "valor": 87.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "15/05",
+    "cidade": "Datong",
+    "descricao": "Sucos",
+    "valor": 30.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "15/05",
+    "cidade": "Datong",
+    "descricao": "Táxi pra estação",
+    "valor": 19.8,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "15/05",
+    "cidade": "Pequim",
+    "descricao": "Metrô pra casa",
+    "valor": 10.0,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "16/05",
+    "cidade": "Pequim",
+    "descricao": "Águas",
+    "valor": 8.0,
+    "quem_pagou": "Carol",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "16/05",
+    "cidade": "Pequim",
+    "descricao": "Almoço",
+    "valor": 115.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "16/05",
+    "cidade": "Pequim",
+    "descricao": "Táxi Summer Palace",
+    "valor": 54.5,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "16/05",
+    "cidade": "Pequim",
+    "descricao": "Entrada Summer Palace",
+    "valor": 60.0,
+    "quem_pagou": "Diva",
+    "categoria": "Ingressos"
+  },
+  {
+    "data": "16/05",
+    "cidade": "Pequim",
+    "descricao": "Audioguia Summer Palace",
+    "valor": 40.0,
+    "quem_pagou": "Diva",
+    "categoria": "Ingressos"
+  },
+  {
+    "data": "16/05",
+    "cidade": "Pequim",
+    "descricao": "Água saborizada Summer Palace",
+    "valor": 8.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "16/05",
+    "cidade": "Pequim",
+    "descricao": "Bolachas de amêndoa",
+    "valor": 25.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "16/05",
+    "cidade": "Pequim",
+    "descricao": "Metrô para o Migas",
+    "valor": 10.0,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "16/05",
+    "cidade": "Pequim",
+    "descricao": "Jantar no Migas (espanhol)",
+    "valor": 645.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "17/05",
+    "cidade": "Pequim",
+    "descricao": "Didi pra estação Beijingnan",
+    "valor": 47.0,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "17/05",
+    "cidade": "Pequim",
+    "descricao": "Wrap de frango",
+    "valor": 39.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "17/05",
+    "cidade": "Pequim",
+    "descricao": "Café de balde",
+    "valor": 44.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "17/05",
+    "cidade": "Pequim",
+    "descricao": "Frutinhas",
+    "valor": 17.9,
+    "quem_pagou": "Carol",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "17/05",
+    "cidade": "Pequim",
+    "descricao": "Metrô",
+    "valor": 10.0,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "17/05",
+    "cidade": "Pequim",
+    "descricao": "Balde de frango",
+    "valor": 20.98,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "17/05",
+    "cidade": "Pequim",
+    "descricao": "Metrô",
+    "valor": null,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "17/05",
+    "cidade": "Pequim",
+    "descricao": "Leques",
+    "valor": 20.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "17/05",
+    "cidade": "Pequim",
+    "descricao": "Prendedor de cabelo",
+    "valor": 20.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "17/05",
+    "cidade": "Pequim",
+    "descricao": "Jantar",
+    "valor": 303.0,
+    "quem_pagou": "Tica",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "18/05",
+    "cidade": "Suzhou",
+    "descricao": "Metro",
+    "valor": 4.0,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "18/05",
+    "cidade": "Suzhou",
+    "descricao": "Entrada Jardim do Administrador Humilde",
+    "valor": 80.0,
+    "quem_pagou": "Carol",
+    "categoria": "Ingressos"
+  },
+  {
+    "data": "18/05",
+    "cidade": "Suzhou",
+    "descricao": "Entrada Jardim do Administrador Humilde",
+    "valor": 40.0,
+    "quem_pagou": "Diva",
+    "categoria": "Ingressos"
+  },
+  {
+    "data": "18/05",
+    "cidade": "Suzhou",
+    "descricao": "Cartão-postal",
+    "valor": 10.0,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "18/05",
+    "cidade": "Suzhou",
+    "descricao": "Café espresso + leite",
+    "valor": 20.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "18/05",
+    "cidade": "Xangai",
+    "descricao": "Passagem avião Xangai-Pequim",
+    "valor": 1460.0,
+    "quem_pagou": "Tica",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "18/05",
+    "cidade": "Xangai",
+    "descricao": "Táxi pro hotel",
+    "valor": 27.0,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "18/05",
+    "cidade": "Xangai",
+    "descricao": "Jantar",
+    "valor": 99.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Café da manhã do hotel",
+    "valor": 76.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Didi pro barco",
+    "valor": 14.5,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Barco",
+    "valor": 4.0,
+    "quem_pagou": "Cada uma",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Didi pro museu",
+    "valor": 14.5,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "MAP Museum of Art of Pudong",
+    "valor": 180.0,
+    "quem_pagou": "Diva",
+    "categoria": "Ingressos"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Alguma coisa de 2 yuan",
+    "valor": 2.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Comprinhas museu Pudong",
+    "valor": 18.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Almoço Starbucks, wrap de frango e frutas",
+    "valor": 57.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Coquinha",
+    "valor": 6.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Ingresso torre Pérola Oriental",
+    "valor": 256.0,
+    "quem_pagou": "Diva",
+    "categoria": "Ingressos"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Comprinhas na torre",
+    "valor": 83.0,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Comprinhas na torre",
+    "valor": 66.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Uniqlo haul",
+    "valor": 1162.0,
+    "quem_pagou": "Paula",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Didi pro The Captain",
+    "valor": 39.0,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Jantar 2 no espetinho",
+    "valor": 112.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "19/05",
+    "cidade": "Xangai",
+    "descricao": "Lenços no mercadinho ao lado do hotel",
+    "valor": 11.8,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Xangai",
+    "descricao": "Café da manhã do hotel",
+    "valor": 76.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Xangai",
+    "descricao": "Didi pro Yuyuan",
+    "valor": 18.0,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Xangai",
+    "descricao": "Comprinhas",
+    "valor": 120.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Xangai",
+    "descricao": "Ingresso Yuyuan",
+    "valor": 60.0,
+    "quem_pagou": "Diva",
+    "categoria": "Ingressos"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Xangai",
+    "descricao": "Guarda-chuva + água",
+    "valor": 44.4,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Xangai",
+    "descricao": "Miniso meia e fone",
+    "valor": 44.9,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Xangai",
+    "descricao": "Chocolates e carrinho Inácio",
+    "valor": 128.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Xangai",
+    "descricao": "Almoço dumplings",
+    "valor": 32.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Xangai",
+    "descricao": "Metrô",
+    "valor": 6.0,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Xangai",
+    "descricao": "Sorvete de casquinha",
+    "valor": 42.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Xangai",
+    "descricao": "Metrô aeroporto",
+    "valor": 8.0,
+    "quem_pagou": "Cada uma",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Pequim",
+    "descricao": "Jantar Carol",
+    "valor": 26.0,
+    "quem_pagou": "Carol",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "20/05",
+    "cidade": "Pequim",
+    "descricao": "Didi pra casa",
+    "valor": 77.88,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "21/05",
+    "cidade": "Pequim",
+    "descricao": "Didi na ida",
+    "valor": 187.27,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "21/05",
+    "cidade": "Pequim",
+    "descricao": "Ingressos parque + shuttle + bondinho",
+    "valor": 400.0,
+    "quem_pagou": "Paula",
+    "categoria": "Ingressos"
+  },
+  {
+    "data": "21/05",
+    "cidade": "Pequim",
+    "descricao": "Chapéu",
+    "valor": 40.0,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "21/05",
+    "cidade": "Pequim",
+    "descricao": "Almoço Saigon Baimen",
+    "valor": 108.0,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "21/05",
+    "cidade": "Pequim",
+    "descricao": "Didi na volta",
+    "valor": 204.2,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "22/05",
+    "cidade": "Pequim",
+    "descricao": "Didi para Tiannanmen",
+    "valor": null,
+    "quem_pagou": "Diva",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "22/05",
+    "cidade": "Pequim",
+    "descricao": "Almoço no museu",
+    "valor": null,
+    "quem_pagou": "Diva",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "22/05",
+    "cidade": "Pequim",
+    "descricao": "Comprinhas museu",
+    "valor": null,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "22/05",
+    "cidade": "Pequim",
+    "descricao": "Volta de metrô",
+    "valor": 8.0,
+    "quem_pagou": "Cada uma",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "23/05",
+    "cidade": "Pequim",
+    "descricao": "Metrô pra Cidade Proibida",
+    "valor": 9.0,
+    "quem_pagou": "Carol",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "23/05",
+    "cidade": "Pequim",
+    "descricao": "Entrada Cidade Proibida",
+    "valor": 60.0,
+    "quem_pagou": "Diva",
+    "categoria": "Ingressos"
+  },
+  {
+    "data": "24/05",
+    "cidade": "Lhasa",
+    "descricao": "Didi pro aeroporto",
+    "valor": null,
+    "quem_pagou": "Carol",
+    "categoria": "Transporte"
+  },
+  {
+    "data": "24/05",
+    "cidade": "Lhasa",
+    "descricao": "Almoço hot pot surpresa",
+    "valor": 438.0,
+    "quem_pagou": "Tica",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "24/05",
+    "cidade": "Lhasa",
+    "descricao": "Show Princesa Wejcheng",
+    "valor": 840.0,
+    "quem_pagou": "Tica",
+    "categoria": "Ingressos"
+  },
+  {
+    "data": "24/05",
+    "cidade": "Lhasa",
+    "descricao": "Comidas",
+    "valor": 30.0,
+    "quem_pagou": "Carol/Renata",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "25/05",
+    "cidade": "Lhasa",
+    "descricao": "Proteção (Jokar Temple)",
+    "valor": 50.0,
+    "quem_pagou": "Renata",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "25/05",
+    "cidade": "Lhasa",
+    "descricao": "Porta-incenso e ímã",
+    "valor": 76.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "25/05",
+    "cidade": "Lhasa",
+    "descricao": "Bolsas",
+    "valor": 120.0,
+    "quem_pagou": "Tica",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "26/05",
+    "cidade": "Lhasa",
+    "descricao": "Comprinhas mirante",
+    "valor": 150.0,
+    "quem_pagou": "Diva",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "27/05",
+    "cidade": "Shigatse",
+    "descricao": "Gorjeta Samsara e Kunga",
+    "valor": 100.0,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "27/05",
+    "cidade": "Shigatse",
+    "descricao": "Jantar",
+    "valor": null,
+    "quem_pagou": "Carol",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "28/05",
+    "cidade": "Shigatse",
+    "descricao": "Chapéu",
+    "valor": 35.0,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "28/05",
+    "cidade": "Shigatse",
+    "descricao": "Copinhos",
+    "valor": 50.0,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "28/05",
+    "cidade": "Shigatse",
+    "descricao": "Comprinhas no Old Market",
+    "valor": 125.0,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "28/05",
+    "cidade": "Shigatse",
+    "descricao": "Almoço",
+    "valor": 45.0,
+    "quem_pagou": "Carol",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "28/05",
+    "cidade": "Shigatse",
+    "descricao": "Gorjeta Lhakdon",
+    "valor": 30.0,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  },
+  {
+    "data": "28/05",
+    "cidade": "Shigatse",
+    "descricao": "Água e cerveja",
+    "valor": 13.0,
+    "quem_pagou": "Carol",
+    "categoria": "Alimentação"
+  },
+  {
+    "data": "28/05",
+    "cidade": "Shigatse",
+    "descricao": "Comprinhas",
+    "valor": 50.0,
+    "quem_pagou": "Carol",
+    "categoria": "Compras/Presentes"
+  }
+]

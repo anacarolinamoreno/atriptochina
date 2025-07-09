@@ -1,0 +1,44 @@
+index,date,city,expense,payment_source,payment_type,category,price,price_usd,price_usd_per_capita
+84,2025-05-19,Shanghai,Uniqlo haul,Paula,credit card,Shopping,1162.0,161.39,80.69
+147,2025-05-30,Beijing,Silk scarves,Paula,credit card,Shopping,1145.0,159.03,79.51
+161,2025-06-03,Beijing,Taobao and Meituan,Renata,apps,Shopping,840.47,116.73,58.37
+140,2025-05-29,Lhasa,Shopping at Norbulingka,Diva,apps,Shopping,308.0,42.78,14.26
+2,2025-05-12,Beijing,Necklace and earrings Carol + gift earring from Lara,Carol,apps,Shopping,170.0,23.61,11.81
+108,2025-05-22,Beijing,Little shopping at museum,Diva,apps,Shopping,165.0,22.92,11.46
+162,2025-06-03,Beijing,Foot massage,Carol,apps,Shopping,156.0,21.67,10.83
+99,2025-05-20,Shanghai,Chocolates and Inácio’s toy car,Diva,apps,Shopping,128.0,17.78,8.89
+127,2025-05-28,Shigatse,Shopping at the Old Market,Carol,apps,Shopping,125.0,17.36,8.68
+97,2025-05-20,Shanghai,Little shopping,Diva,apps,Shopping,120.0,16.67,8.33
+123,2025-05-27,Shigatse,Tip for Samsara and Kunga,Carol,apps,Shopping,100.0,13.89,6.94
+122,2025-05-26,Lhasa,Shopping at the viewpoint,Diva,apps,Shopping,150.0,20.83,6.94
+34,2025-05-14,Datong,Small souvenirs Hanging Temple,Diva,apps,Shopping,97.0,13.47,6.74
+3,2025-05-12,Beijing,3 Decks of cards,Carol,apps,Shopping,90.0,12.5,6.25
+39,2025-05-15,Datong,Small souvenir shopping,Diva,apps,Shopping,87.0,12.08,6.04
+73,2025-05-19,Shanghai,Little shopping at the tower,Carol,apps,Shopping,83.0,11.53,5.76
+120,2025-05-25,Lhasa,Bags,Tica,apps,Shopping,120.0,16.67,5.56
+18,2025-05-13,Beijing,Bag and bookmark,Carol,apps,Shopping,78.0,10.83,5.42
+31,2025-05-14,Datong,Datong notebooks,Diva,apps,Shopping,75.0,10.42,5.21
+135,2025-05-29,Lhasa,Shopping at Bokar Supermarket,Carol,apps,Shopping,105.0,14.58,4.86
+144,2025-05-30,Beijing,Pearl earrings and necklace,Diva,apps,Shopping,70.0,9.72,4.86
+72,2025-05-19,Shanghai,Little shopping at the tower,Diva,apps,Shopping,66.0,9.17,4.58
+119,2025-05-25,Lhasa,Incense holder and magnet,Diva,apps,Shopping,76.0,10.56,3.52
+130,2025-05-28,Shigatse,Shopping,Carol,apps,Shopping,50.0,6.94,3.47
+126,2025-05-28,Shigatse,Cups,Carol,apps,Shopping,50.0,6.94,3.47
+94,2025-05-20,Shanghai,Miniso socks and headphones,Carol,apps,Shopping,44.9,6.24,3.12
+88,2025-05-20,Shanghai,Umbrella + water,Diva,apps,Shopping,44.4,6.17,3.08
+27,2025-05-14,Datong,Souvenir bells,Diva,apps,Shopping,40.0,5.56,2.78
+104,2025-05-21,Mutianyu,Hat,Carol,apps,Shopping,40.0,5.56,2.78
+125,2025-05-28,Shigatse,Hat,Carol,apps,Shopping,35.0,4.86,2.43
+121,2025-05-25,Lhasa,Protection (Jokar Temple),Renata,apps,Shopping,50.0,6.94,2.31
+128,2025-05-28,Shigatse,Tip for Lhakdon,Carol,apps,Shopping,30.0,4.17,2.08
+145,2025-05-30,Beijing,Supermarket,Carol,apps,Shopping,21.3,2.96,1.48
+53,2025-05-17,Suzhou,Fans,Diva,apps,Shopping,20.0,2.78,1.39
+136,2025-05-29,Lhasa,Massage at the airport,Diva,apps,Shopping,30.0,4.17,1.39
+60,2025-05-17,Suzhou,Hair clip,Diva,apps,Shopping,20.0,2.78,1.39
+83,2025-05-19,Shanghai,Little shopping at Pudong museum,Diva,apps,Shopping,18.0,2.5,1.25
+80,2025-05-19,Shanghai,Tissues at the little market next to the hotel,Carol,apps,Shopping,11.8,1.64,0.8200000000000001
+159,2025-06-02,Guangzhou,Shopping at Miniso,Carol,apps,Shopping,15.0,2.08,0.6900000000000001
+155,2025-06-02,Guangzhou,Bookstore,Carol,apps,Shopping,11.5,1.6,0.53
+64,2025-05-18,Suzhou,Postcard,Carol,apps,Shopping,10.0,1.39,0.46
+30,2025-05-14,Datong,Tissues,Diva,apps,Shopping,5.4,0.75,0.38
+77,2025-05-19,Shanghai,Something for 2 yuan,Diva,apps,Shopping,2.0,0.28,0.14
